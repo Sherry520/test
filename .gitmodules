@@ -1,3 +1,4 @@
 [submodule "progit2"]
 	path = progit2
 	url = https://github.com/progit/progit2
+	branch = dependabot/bundler/asciidoctor-pdf-2.3.18
